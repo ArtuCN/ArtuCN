@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @ArtuCN
 - 🌱 I’m currently learning C and C++ in École 42 in Florence
 - 🤖 I'm interested in learning about cybersecurity
+
+  
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true&theme=midnight-purple"
