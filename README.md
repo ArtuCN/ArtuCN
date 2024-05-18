@@ -1,4 +1,4 @@
-![image](https://github.com/ArtuCN/ArtuCN/assets/147415284/26c8ef78-cfa1-4309-9349-dc47c4b71937)
+![image](https://github.com/ArtuCN/ArtuCN/assets/147415284/efe073f7-18b5-4d9f-9d67-232d903f8fe5)
 
 
 
