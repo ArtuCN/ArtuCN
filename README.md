@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.icegif.com%2Fhacker-39%2F&psig=AOvVaw1VwG1QZ_aZeCYM-vtIlSiB&ust=1716124060219000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJioqLuil4YDFQAAAAAdAAAAABAE)](https://github.com/ArtuCN)
+![image](https://github.com/ArtuCN/ArtuCN/assets/147415284/26c8ef78-cfa1-4309-9349-dc47c4b71937)
 
 
 
