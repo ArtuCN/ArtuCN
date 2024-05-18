@@ -3,7 +3,7 @@
 - 🤖 I'm interested in learning about cybersecurity
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true&theme=light"
+    srcset="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true&theme=midnight-purple"
     media="(prefers-color-scheme: dark)"
   />
   <source
