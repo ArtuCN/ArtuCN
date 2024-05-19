@@ -3,8 +3,10 @@
 
 
 - 👋 Hi, I’m @ArtuCN
-- 🌱 I’m currently learning C and C++ in École 42 in Florence
 - 🤖 I'm interested in learning about cybersecurity
+- 🌱 I’m currently learning C and C++ in École 42 in Florence (aconti)
+- https://profile.intra.42.fr/users/aconti
+
 
   
 <picture>
