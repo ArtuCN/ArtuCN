@@ -19,7 +19,10 @@
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true" />
+  
+  />
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artucn)](https://github.com/artucn/github-readme-stats)
+  />
 </picture>
 
 
