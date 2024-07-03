@@ -22,6 +22,8 @@
   
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artucn)](https://github.com/artucn/github-readme-stats)
+  <source
+  media="(prefers-color-scheme: dark)" 
+  srcset="(https://github-readme-stats.vercel.app/api/top-langs/?username=artucn)](https://github.com/artucn/github-readme-stats)"
+  />  
 </picture>
