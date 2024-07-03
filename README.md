@@ -29,7 +29,7 @@
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn" 
     alt="Top languages"
-    style="display: block; max-width: 90%; height: auto;"
+    style="display: block; max-width: 100%; height: auto;"
   />
 </picture>
 
