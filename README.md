@@ -15,7 +15,7 @@
     align-items: center;
   }
   .flex-container picture {
-    margin-right: 10px; /* Adjust as needed */
+    margin-right: 100px; /* Adjust as needed */
   }
 </style>
 
