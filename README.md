@@ -21,5 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artucn)](https://github.com/artucn/github-readme-stats&show_icons=true&theme=midnight-purple)
-media="(prefers-color-scheme: dark)"
+<picture>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artucn)](https://github.com/artucn/github-readme-stats&show_icons=true&theme=midnight-purple)
+  media="(prefers-color-scheme: dark)"
+</picture>picture>
