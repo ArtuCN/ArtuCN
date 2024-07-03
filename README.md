@@ -24,7 +24,7 @@
 <picture>
   <source 
     media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn&theme=dark&title_color=purple&text_color=purple"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn&theme=midnight-purple"
   />
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn" 
