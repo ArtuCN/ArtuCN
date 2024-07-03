@@ -22,8 +22,14 @@
   
 </picture>
 <picture>
-  <source
-  media="(prefers-color-scheme: dark)" 
-  srcset="(https://github-readme-stats.vercel.app/api/top-langs/?username=artucn)](https://github.com/artucn/github-readme-stats)"
-  />  
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn&theme=dark"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn" 
+    alt="Top languages"
+    style="display: block; max-width: 100%; height: auto;"
+  />
 </picture>
+
