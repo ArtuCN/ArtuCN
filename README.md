@@ -30,19 +30,18 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true" />
   
-<div style="text-align: right;">
-  <picture>
-    <source 
-      media="(prefers-color-scheme: dark)" 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn&theme=midnight-purple"
-    />
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn" 
-      alt="Top languages"
-      style="display: block; max-width: 100%; height: auto;"
-    />
-  </picture>
-</div>
+</picture>
+<picture>
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn&theme=midnight-purple"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn" 
+    alt="Top languages"
+    style="display: block; max-width: 100%; height: auto;"
+  />
+</picture>
 
 
 
