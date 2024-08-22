@@ -3,13 +3,12 @@
 </h1>
 
 
-![image](https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce)
 
-
-- 🤖 I'm interested in learning about cybersecurity
-- 🌱 I’m currently learning C and C++ in École 42 in Florence
-- 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
-
+<h2 align="left">
+ - 🤖 I'm interested in learning about cybersecurity
+ - 🌱 I’m currently learning C and C++ in École 42 in Florence
+ - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
+</h2>
 
   
 <picture>
@@ -36,3 +35,5 @@
   />
 </picture>
 
+
+![image](https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce)
