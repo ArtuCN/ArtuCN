@@ -4,10 +4,10 @@
 
 
 
-<h3 align="right">
+<h3 align="left">
   About me:
 </h3>
-<h3 align="right">
+<h3 align="left">
 
  - 🤖 I'm interested in learning about cybersecurity
 
