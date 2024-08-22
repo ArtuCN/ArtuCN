@@ -4,15 +4,17 @@
 
 
 
-<h3 align="right">
+<h3 align="left">
   About me:
 </h3>
+<h3 align="right">
 
  - 🤖 I'm interested in learning about cybersecurity
 
  - 🌱 I’m currently learning C and C++ in École 42 in Florence
 
  - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
+</h3>
 
   
 <picture>
