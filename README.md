@@ -48,6 +48,7 @@
 <img
   src="https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce"
   alt="Image description"
-  style="margin-top: 50px;"
+  style="margin-top: 20px;"
 />
+
 
