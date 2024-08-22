@@ -4,7 +4,7 @@
 
 
 <h2 align="right">
- ![image](https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce)
+![image](https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce)
 </h2>
 
 
