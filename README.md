@@ -30,8 +30,7 @@
   />
   <img src="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true" />
   
-</picture>
-<picture>
+<picture style="float: right;">
   <source 
     media="(prefers-color-scheme: dark)" 
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn&theme=midnight-purple"
@@ -42,6 +41,7 @@
     style="display: block; max-width: 100%; height: auto;"
   />
 </picture>
+
 
 
 ![image](https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce)
