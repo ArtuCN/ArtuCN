@@ -1,9 +1,10 @@
+<h1 align="center">
+ 👋 Hi, I’m @ArtuCN
+</h1>
 ![gif](https://github.com/user-attachments/assets/a0b53c3d-f0fa-4572-abdc-1af5b0746489)
 
 
 
-
-- 👋 Hi, I’m @ArtuCN
 - 🤖 I'm interested in learning about cybersecurity
 - 🌱 I’m currently learning C and C++ in École 42 in Florence
 - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
