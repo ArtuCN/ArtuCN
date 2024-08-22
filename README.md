@@ -1,8 +1,11 @@
 <h1 align="center">
  👋 Hi, I’m @ArtuCN
 </h1>
-![gif](https://github.com/user-attachments/assets/a0b53c3d-f0fa-4572-abdc-1af5b0746489)
 
+
+<h2 align="right">
+ ![image](https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce)
+</h2>
 
 
 - 🤖 I'm interested in learning about cybersecurity
