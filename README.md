@@ -4,9 +4,10 @@
 
 
 
-<h3 align="left">
+<h3 align="right">
   About me:
 </h3>
+
  - 🤖 I'm interested in learning about cybersecurity
 
  - 🌱 I’m currently learning C and C++ in École 42 in Florence
