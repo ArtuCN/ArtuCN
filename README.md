@@ -5,6 +5,7 @@
 
 
 <h3 align="left">
+
  - 🤖 I'm interested in learning about cybersecurity
 
  - 🌱 I’m currently learning C and C++ in École 42 in Florence
