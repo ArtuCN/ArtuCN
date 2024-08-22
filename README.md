@@ -14,6 +14,8 @@
  - 🌱 I’m currently learning C and C++ in École 42 in Florence
 
  - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
+
+ - 💬 This is my email -> arturo.conti.2004@gmail.com
 </h3>
 
   
