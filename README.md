@@ -18,6 +18,9 @@
  - 💬 This is my email -> arturo.conti.2004@gmail.com
 </h3>
 
+<h1 align="center">
+GITHUB STATS
+</h1>
   
 <picture>
   <source
