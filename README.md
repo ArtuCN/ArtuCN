@@ -57,14 +57,6 @@ INTRA STATS
       <a href="https://github.com/oakoudad/badge42">
         <img src="https://badge.mediaplus.ma/binary/aconti?1337Badge=off&UM6P=off" alt="aconti's 42 stats" />
       </a>
-    </td>
-    
-    <!-- Testo sulla destra -->
-    <td style="padding-left: 20px;">
-      <p><strong>Intra42 Profile:</strong> Arturo Conti</p>
-      <p>📘 Level: 8.2</p>
-      <p>💻 Favorite Projects: Libft, Cursus</p>
-    </td>
   </tr>
 </table>
 
