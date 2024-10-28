@@ -48,7 +48,7 @@ GITHUB STATS
 
 <h1 align="center">
 INTRA STATS
-</h1>
+</h1 align="center">
 
 <!-- Badge delle statistiche di intra42 -->
 <a href="https://github.com/oakoudad/badge42">
