@@ -49,9 +49,15 @@ GITHUB STATS
 <h1 align="center">
 INTRA STATS
 </h1>
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aconti?1337Badge=off&UM6P=off" alt="aconti's 42 stats" /></a>
-<img src="![image](https://github.com/user-attachments/assets/c77e2578-1d28-4ce2-9083-a0531c360e6e)
-" alt="GIF" style="width: 150px; margin-left: 20px;" />
+
+<!-- Badge delle statistiche di intra42 -->
+<a href="https://github.com/oakoudad/badge42">
+  <img src="https://badge.mediaplus.ma/binary/aconti?1337Badge=off&UM6P=off" alt="aconti's 42 stats" />
+</a>
+
+<!-- GIF sulla destra -->
+<img src="https://github.com/user-attachments/assets/c77e2578-1d28-4ce2-9083-a0531c360e6e" alt="GIF" style="width: 150px; margin-left: 20px;" />
+
 <h1 align="center">
 ...
 </h1>
