@@ -50,12 +50,20 @@ GITHUB STATS
 INTRA STATS
 </h1>
 
-<!-- Badge delle statistiche di intra42 -->
-<a href="https://github.com/oakoudad/badge42">
-  <img src="https://badge.mediaplus.ma/binary/aconti?1337Badge=off&UM6P=off" alt="aconti's 42 stats" />
-</a>
+<div style="display: flex; align-items: center;">
+  <!-- Badge delle statistiche di intra42 -->
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/binary/aconti?1337Badge=off&UM6P=off" alt="aconti's 42 stats" />
+  </a>
 
-<!-- GIF ingrandita e accanto al badge -->
+  <!-- Testo o altra descrizione a destra -->
+  <div style="margin-left: 20px;">
+    <p><strong>Intra42 Profile:</strong> Arturo Conti</p>
+    <p>📘 Level: 8.2</p>
+    <p>💻 Favorite Projects: Libft, Cursus</p>
+  </div>
+</div>
+
 
 
 <h1 align="center">
