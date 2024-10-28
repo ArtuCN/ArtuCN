@@ -47,9 +47,12 @@ GITHUB STATS
 </picture>
 
 <h1 align="center">
+INTRA STATS
+</h1>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/binary/aconti?1337Badge=off&UM6P=off" alt="aconti's 42 stats" /></a>
+<h1 align="center">
 ...
 </h1>
-
 <img
   src="https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce"
   alt="Image description"
