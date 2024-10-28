@@ -56,7 +56,6 @@ INTRA STATS
 </a>
 
 <!-- GIF ingrandita e accanto al badge -->
-<img src="https://github.com/user-attachments/assets/c77e2578-1d28-4ce2-9083-a0531c360e6e.gif" alt="GIF" style="width: 200px; margin-left: 20px;" />
 
 
 <h1 align="center">
