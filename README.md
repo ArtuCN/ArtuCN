@@ -47,23 +47,6 @@ GITHUB STATS
 </picture>
 
 <h1 align="center">
-INTRA STATS
-</h1>
-
-<table>
-  <tr>
-    <!-- Badge delle statistiche di intra42 -->
-    <td>
-      <a href="https://github.com/oakoudad/badge42">
-        <img src="https://badge.mediaplus.ma/binary/aconti?1337Badge=off&UM6P=off" alt="aconti's 42 stats" />
-      </a>
-  </tr>
-</table>
-
-
-
-
-<h1 align="center">
 ...
 </h1>
 <img
