@@ -16,6 +16,8 @@
  - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
 
  - 💬 This is my email -> arturo.conti.2004@gmail.com
+ 
+ - 🎵 I don't like 42 Firenze song! :( 
 </h3>
 
 <h1 align="center">
