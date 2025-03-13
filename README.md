@@ -47,21 +47,10 @@ GITHUB STATS
   />
 </picture>
 
-<h1 align="center">
-...
-</h1>
-<img
-  src="https://github.com/user-attachments/assets/088cd5dc-b780-44a4-adea-3b199d427cce"
-  alt="Image description"
-  style="margin-top: 20px;"
-/>
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
