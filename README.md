@@ -9,7 +9,7 @@
 </h3>
 <h3 align="left">
 
- - 🤖 I'm interested in learning about cybersecurity and blockchain
+ - 🤖 I'm a Software Developer
 
  - 🌱 I’m currently learning C and C++ in École 42 in Florence
 
