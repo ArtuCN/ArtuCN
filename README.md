@@ -94,7 +94,7 @@ GITHUB STATS
 </div>
 
 <p align="center">
-  <i>🚀 Always looking for new challenges and opportunities to learn!</i>
+  <i>🦾 The more I learn more I know I don't know</i>
 </p>
 
 
