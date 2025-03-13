@@ -47,6 +47,10 @@ GITHUB STATS
   />
 </picture>
 
+<h3 align="left">
+  I use:
+</h3>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
@@ -64,8 +68,6 @@ GITHUB STATS
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <!-- Icona per Makefile (non ufficiale, utilizziamo un'icona generica) -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="40" alt="makefile logo"  />
 </div>
 
 
