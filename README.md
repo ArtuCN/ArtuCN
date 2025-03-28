@@ -11,7 +11,7 @@
 
  - 🤖 I'm a Software Developer
 
- - 🌱 I’m currently learning C and C++ in École 42 in Florence
+ - 🌱 I’m currently learning programmation in École 42 in Florence
 
  - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
 
