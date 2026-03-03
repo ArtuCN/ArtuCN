@@ -20,35 +20,11 @@
 </h3>
 
 
+GITHUB STATS
 [![artucn's GitHub stats](https://github-readme-stats.vercel.app/api?username=artucn)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">
-GITHUB STATS
 </h1>
   
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true&theme=midnight-purple"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArtuCN&show_icons=true" />
-  
-</picture>
-<picture>
-  <source 
-    media="(prefers-color-scheme: dark)" 
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn&theme=midnight-purple"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=artucn" 
-    alt="Top languages"
-    style="display: block; max-width: 100%; height: auto;"
-  />
-</picture>
-
 <h1 align="center">
   🚀 Tech Stack
 </h1>
