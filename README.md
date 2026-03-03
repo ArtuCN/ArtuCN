@@ -20,10 +20,7 @@
 </h3>
 
 
-GITHUB STATS
-[![artucn's GitHub stats](https://github-readme-stats.vercel.app/api?username=artucn)](https://github.com/anuraghazra/github-readme-stats)
-<h1 align="center">
-</h1>
+
   
 <h1 align="center">
   🚀 Tech Stack
