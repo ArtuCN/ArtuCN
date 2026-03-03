@@ -19,6 +19,8 @@
  
 </h3>
 
+
+[![artucn's GitHub stats](https://github-readme-stats.vercel.app/api?username=artucn)](https://github.com/anuraghazra/github-readme-stats)
 <h1 align="center">
 GITHUB STATS
 </h1>
