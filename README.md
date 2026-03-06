@@ -4,20 +4,15 @@
 
 
 
-<h3 align="left">
-  About me:
-</h3>
-<h3 align="left">
+## 👨‍💻 About Me
 
- - 🤖 I'm currently working as Software Developer
+Software Developer and **42 Florence alumnus**.
 
- - 🌱 I’ve finished the common-core in École 42 in Florence
+* 🌱 Completed the **42 Common Core**
+* 🥸 [42 Intra Profile](https://profile.intra.42.fr/users/aconti)
+* 💬 Email: **[arturo.conti.2004@gmail.com](mailto:arturo.conti.2004@gmail.com)**
+* 🗣️ [LinkedIn](https://www.linkedin.com/in/arturo-conti-206684281)
 
- - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
-
- - 💬 This is my email -> arturo.conti.2004@gmail.com
-
- - 🗣️​ This is my linkedin account ->  https://www.linkedin.com/in/arturo-conti-206684281/
  
 </h3>
 
