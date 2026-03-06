@@ -9,13 +9,15 @@
 </h3>
 <h3 align="left">
 
- - 🤖 I'm a Software Developer
+ - 🤖 I'm currently working as Software Developer
 
- - 🌱 I’m currently learning programmation in École 42 in Florence
+ - 🌱 I’ve finished the common-core in École 42 in Florence
 
  - 🥸 This is my intra profile -> https://profile.intra.42.fr/users/aconti
 
  - 💬 This is my email -> arturo.conti.2004@gmail.com
+
+ - 🗣️​ This is my linkedin account ->  https://www.linkedin.com/in/arturo-conti-206684281/
  
 </h3>
 
