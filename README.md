@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Full Stack Software Developer and **ex 42 Florence alumnus**.
+Full Stack Software Developer and **42 Florence alumni**.
 
 * 🌱 Completed the **42 Common Core**
 * 🥸 [42 Intra Profile](https://profile.intra.42.fr/users/aconti)
